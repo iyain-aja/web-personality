@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    padding: 10px;
+    font-size: 20px;
+    background-color: #47e2f7;
+}
+
+.a {
+    vertical-align: middle;
+    background-color:#003166;
+}
+
+.a img {
+    display: block;
+    margin: 30px;
+}
+
+a:link {
+    color:#0000fd;
+}
+    
+a:hover {
+    color:#2a9bf7;
+}
+
+#guestbook {
+    background-color: rgb(69, 153, 243);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    width: 100%;
+}
+
+div a {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: #fcb900;
+}
+
+td p {
+    text-align: center;
+}
+
+td img {
+    display: block;
+    margin: 0 auto;
+}
